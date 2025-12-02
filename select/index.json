@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君じゃないと",
+  "base_artist": "ASA",
+  "createdAt": "2025-12-02T07:06:46.835313Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君じゃないと",
+      "artist": "ASA",
+      "has_synced": false,
+      "path": "select/pl_01_君じゃないと_ASA.txt"
+    }
+  ]
+}
